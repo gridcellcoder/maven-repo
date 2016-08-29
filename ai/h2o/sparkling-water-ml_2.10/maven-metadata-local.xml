@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ai.h2o</groupId>
+  <artifactId>sparkling-water-ml_2.10</artifactId>
+  <versioning>
+    <versions>
+      <version>1.6.7-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160829125302</lastUpdated>
+  </versioning>
+</metadata>
