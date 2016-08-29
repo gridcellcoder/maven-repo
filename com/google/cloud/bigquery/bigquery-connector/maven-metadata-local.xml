@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.google.cloud.bigquery</groupId>
+  <artifactId>bigquery-connector</artifactId>
+  <versioning>
+    <release>0.7.6-hadoop2-shaded</release>
+    <versions>
+      <version>0.7.6-hadoop2-shaded</version>
+    </versions>
+    <lastUpdated>20160829124422</lastUpdated>
+  </versioning>
+</metadata>
